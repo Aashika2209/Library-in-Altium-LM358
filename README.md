@@ -98,6 +98,20 @@ To create a **schematic symbol and PCB footprint library for the LM358 dual oper
 6. Run the library/project compilation before using the component in an actual PCB design.
 7. Perform a final **ERC/DRC check** after integrating the component into a PCB project.
 
+## Screenshots
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Result
 
 The **LM358 schematic symbol and corresponding PCB footprint library were successfully created using Altium Designer**. The component was verified by placing it in a test schematic and transferring it to the PCB layout. The symbol-to-footprint pin mapping, pad numbering, package dimensions, and component orientation were checked and found to be correct.
