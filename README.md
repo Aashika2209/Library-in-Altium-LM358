@@ -100,13 +100,13 @@ To create a **schematic symbol and PCB footprint library for the LM358 dual oper
 
 ## Screenshots
 
+<img width="1920" height="1200" alt="Screenshot (199)" src="https://github.com/user-attachments/assets/3ec0509c-a760-400d-a55c-9a2f3a96ae6a" />
 
 
+<img width="1920" height="1200" alt="Screenshot (200)" src="https://github.com/user-attachments/assets/65e492b7-a10b-4d14-a056-bcf2d95d9fdb" />
 
 
-
-
-
+<img width="1920" height="1200" alt="Screenshot (198)" src="https://github.com/user-attachments/assets/afe0515b-a35f-4d05-b9ea-8db11f6aa30c" />
 
 
 
